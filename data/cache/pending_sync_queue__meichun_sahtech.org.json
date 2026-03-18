@@ -1,0 +1,19 @@
+[
+  {
+    "event_id": "cfab85aa7e2c4bd5999c07d7ca64ea15",
+    "operation": "expense_hard_delete",
+    "actor": {
+      "email": "joli@sahtech.org",
+      "name": "李政憲",
+      "role": "admin"
+    },
+    "payload": {
+      "record_id": "EX960211150317001",
+      "user_email": "meichun@sahtech.org",
+      "system_type": "expense",
+      "event_id": "cfab85aa7e2c4bd5999c07d7ca64ea15"
+    },
+    "queued_at": "2026-03-18T10:27:44",
+    "queue_owner_email": "meichun@sahtech.org"
+  }
+]

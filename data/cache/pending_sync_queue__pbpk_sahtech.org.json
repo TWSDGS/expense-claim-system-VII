@@ -1,0 +1,46 @@
+[
+  {
+    "event_id": "181f380500d44c4b920e7b5311929251",
+    "operation": "travel_hard_delete",
+    "actor": {
+      "email": "meichun@sahtech.org",
+      "name": "林玫君",
+      "role": "admin"
+    },
+    "payload": {
+      "record_id": "LCL-TRV-20260315180857",
+      "user_email": "pbpk@sahtech.org",
+      "system_type": "travel",
+      "event_id": "181f380500d44c4b920e7b5311929251",
+      "needs_sync": true,
+      "sync_status": "failed",
+      "sync_message": "record not found"
+    },
+    "queued_at": "2026-03-18T10:14:20",
+    "queue_owner_email": "pbpk@sahtech.org",
+    "retry_count": 2,
+    "last_error": "record not found"
+  },
+  {
+    "event_id": "bd49995bded34139b709a1afbbca1d8a",
+    "operation": "travel_hard_delete",
+    "actor": {
+      "email": "meichun@sahtech.org",
+      "name": "林玫君",
+      "role": "admin"
+    },
+    "payload": {
+      "record_id": "LCL-TRV-20260315180757",
+      "user_email": "pbpk@sahtech.org",
+      "system_type": "travel",
+      "event_id": "bd49995bded34139b709a1afbbca1d8a",
+      "needs_sync": true,
+      "sync_status": "failed",
+      "sync_message": "record not found"
+    },
+    "queued_at": "2026-03-18T10:15:18",
+    "queue_owner_email": "pbpk@sahtech.org",
+    "retry_count": 2,
+    "last_error": "record not found"
+  }
+]
